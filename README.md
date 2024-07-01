@@ -35,7 +35,7 @@ Welcome to my certifications repository! Here you'll find a collection of my pro
 ---
 
 ### 🤖 Chatbot Development
-![Project Image](https://via.placeholder.com/150)
+
 - **Description**: Developed an intelligent chatbot using natural language processing and machine learning techniques to assist users with common queries.
 
 ---
