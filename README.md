@@ -8,9 +8,9 @@ Welcome to my certifications repository! Here you'll find a collection of my pro
 ## 🎓 Professional Certifications
 
 ### 📊 Data Science - ExcelR Solutions
-![ExcelR Logo](https://via.placeholder.com/150x50?text=ExcelR+Solutions)
+![ExcelR Logo](https://github.com/ranjithsamudrala/images/blob/main/excelr%20logo.webp)
 - **Institution**: ExcelR Solutions
-- **Date**: [Month, Year]
+- **Date**: [November,2023 ]
 - **Description**: This certification demonstrates my expertise in Data Science, covering essential topics such as data manipulation, data visualization, statistical analysis, and machine learning techniques using Python and R.
 
 ---
@@ -18,7 +18,7 @@ Welcome to my certifications repository! Here you'll find a collection of my pro
 ### 📈 Machine Learning with Python - IBM
 ![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
 - **Institution**: IBM
-- **Date**: [Month, Year]
+- **Date**: [june, 2024]
 - **Description**: This certification demonstrates my proficiency in Machine Learning using Python. The course covered essential concepts such as supervised and unsupervised learning, model evaluation, and practical implementation using Python libraries like scikit-learn and TensorFlow.
 
 ---
@@ -33,12 +33,6 @@ Welcome to my certifications repository! Here you'll find a collection of my pro
 - **Tools**: Jupyter Notebooks, RStudio, Excel, SQL.
 
 ---
-
-## 🚀 Projects
-
-### 🔍 Predictive Analytics Project
-![Project Image](https://via.placeholder.com/150)
-- **Description**: Implemented a predictive analytics model to forecast sales based on historical data. Utilized various regression techniques to improve accuracy.
 
 ### 🤖 Chatbot Development
 ![Project Image](https://via.placeholder.com/150)
