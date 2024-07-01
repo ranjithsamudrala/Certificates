@@ -42,14 +42,14 @@ Welcome to my certifications repository! Here you'll find a collection of my pro
 
 ## 📚 Learning Journey
 
-![Learning](https://via.placeholder.com/600x100)
+![Learning](https://github.com/ranjithsamudrala/images/blob/main/LEARN.jpg)
 > "The beautiful thing about learning is that nobody can take it away from you." - B.B. King
 
 ---
 
 ## 🌟 Get in Touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com) or [Twitter](https://www.twitter.com) if you'd like to discuss my certifications, projects, or any potential collaboration opportunities.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com) if you'd like to discuss my certifications, projects, or any potential collaboration opportunities.
 
 ---
 
